@@ -13,7 +13,7 @@ Git | GitHub | Jupyter Notebook | Google Colab
 ---
 
 ### GitHub Streak  🔥
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yvonne-Tashy&theme=tokyonight&fire=ff9d00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yvonne-Tashy&theme=tokyonight&fire=ff9d00)](https://git.io/streak-stats)&v=1
 
 
 
