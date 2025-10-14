@@ -27,7 +27,7 @@ Always learning, always experimenting.
 ---
 
 ### GitHub Streak  🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yvonne-Tashy&theme=tokyonight&fire=ff9d00&v=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yvonne-Tashy&theme=tokyonight&fire=ff9d00&v=2)](https://git.io/streak-stats)
 
 
 
