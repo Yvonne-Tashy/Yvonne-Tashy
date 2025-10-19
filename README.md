@@ -43,7 +43,7 @@ Always learning, always experimenting.
 
 ---
 
-### Top Languages  
+### TOP LANGUAGES 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvonne-Tashy&layout=compact&theme=tokyonight)
 
 <!--
