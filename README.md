@@ -2,7 +2,7 @@
 
 Data-driven. Code-powered. Curiosity-fueled.  
 Focused on AI, data visualization, and scalable cloud solutions.  
-Always learning, always experimenting.  
+Always learning, always experimenting, always ready to learn.  
 
 ---
 
