@@ -38,7 +38,7 @@ Always learning, always experimenting, always ready to learn.
 
 
 
-### GitHub Stats  
+### GitHub STATS  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yvonne-Tashy&show_icons=true&theme=tokyonight)
 
 ---
