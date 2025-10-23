@@ -1,4 +1,4 @@
-# Hello there, I'm Yvonne Tashy
+# Hello there, I'm Yvonne Tashy.
 
 Data-driven. Code-powered. Curiosity-fueled.  
 Focused on AI, data visualization, and scalable cloud solutions.  
