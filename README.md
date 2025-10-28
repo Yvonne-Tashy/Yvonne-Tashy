@@ -24,17 +24,6 @@ Always learning, always experimenting, always ready to learn.
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
----
-
-### GitHub Streak  🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yvonne-Tashy&theme=tokyonight&fire=ff9d00&v=2)](https://git.io/streak-stats)
-
-
-
-
----
-
-
 
 
 
