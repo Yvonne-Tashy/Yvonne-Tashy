@@ -27,13 +27,17 @@ Always learning, always experimenting, always ready to learn.
 
 
 
-### GitHub STATS  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yvonne-Tashy&show_icons=true&theme=tokyonight)
+## Tools & Platforms
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Colab](https://img.shields.io/badge/Colab-yellow?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
----
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
-### TOP LANGUAGES 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvonne-Tashy&layout=compact&theme=tokyonight)
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
 
 <!--
 **Yvonne-Tashy/Yvonne-Tashy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
