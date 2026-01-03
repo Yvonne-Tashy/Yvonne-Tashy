@@ -33,7 +33,8 @@ Always learning, always experimenting, always ready to learn.
 [![Colab](https://img.shields.io/badge/Colab-yellow?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yvonne-Tashy&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvonne-Tashy&layout=compact)
+
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvonne-Tashy&layout=compact&theme=dark)
