@@ -32,12 +32,7 @@ Always learning, always experimenting, always ready to learn.
 [![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Colab](https://img.shields.io/badge/Colab-yellow?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvonne-Tashy&layout=compact)
 
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yvonne-Tashy&layout=compact&theme=dark)
 
 <!--
 **Yvonne-Tashy/Yvonne-Tashy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
