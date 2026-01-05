@@ -26,13 +26,6 @@ Always learning, always experimenting, always ready to learn.
 
 
 
-## Tools & Platforms
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Yvonne-Tashy)
-[![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Colab](https://img.shields.io/badge/Colab-yellow?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
-
-
 
 <!--
 **Yvonne-Tashy/Yvonne-Tashy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
