@@ -24,13 +24,6 @@ Always learning, always experimenting, always ready to learn.
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 
-## TOOLS & PLATFORMS
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Yvonne-Tashy)
-[![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)](https://git-scm.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Colab](https://img.shields.io/badge/Colab-yellow?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
-
-
 
 
 
