@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yvonne Tashy  
 
-💡 A data-driven and curiosity-fueled software engineering student passionate about **AI**, **data visualization**, and **scalable cloud solutions**.  
-I love turning ideas into interactive, user-friendly tools that make tech accessible and fun. 🚀  
+A data-driven and curiosity-fueled software engineering student passionate about **AI**, **data visualization**, and **scalable cloud solutions**.  
+I love turning ideas into interactive, user-friendly tools that make tech accessible and fun.   
 
 ---
 
