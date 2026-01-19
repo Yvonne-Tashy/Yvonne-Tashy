@@ -26,7 +26,7 @@ I love turning ideas into interactive, user-friendly tools that make tech access
 ## Currently Learning  
 - Figma prototyping
 - Interactive design helpers
-- Cloud-based collaboration ☁️  
+- Cloud-based collaboration 
 
 ---
 
